@@ -1,4 +1,5 @@
 # PointOfSale-Desktop
+
 ![alt text](https://github.com/rizalfahlevi8/PointOfSale-Desktop/blob/main/documentation/Dashboard.png?raw=true)
 Aplikasi Point of Sale ini adalah aplikasi desktop yang dirancang untuk membantu bisnis dalam mengelola inventaris barang dan mengelola transaksi kasir dengan efisien. 
 Dengan aplikasi ini, Anda dapat mengotomatisasi banyak aspek operasional bisnis Anda, termasuk manajemen stok, pencatatan penjualan, dan pelaporan keuangan.
@@ -15,7 +16,7 @@ Default username dan password yang digunakan untuk login :
 1. Sebagai Admin
 - Username : **admin**
 - Password : **admin**
-1. Sebagai karyawan
+2. Sebagai karyawan
 - Username : **karyawan**
 - Password : **karyawan**
 
@@ -29,11 +30,12 @@ Berikut adalah beberapa fitur utama yang dapat Anda nikmati:
 3. **Generate Barcode**
    
    ![alt text](https://github.com/rizalfahlevi8/PointOfSale-Desktop/blob/main/documentation/Data%20Barang.png?raw=true)
+   
    Fitur ini memungkinkan pengguna untuk dengan mudah membuat barcode untuk setiap produk.
    Barcode ini dapat digunakan untuk mengidentifikasi produk secara cepat saat proses penjualan.
    
 5. **Cetak Struk**
-   Aplikasi ini menyediakan cetak struk transaksi secara otomatis setelah setiap pembelian.
+   Aplikasi ini menyediakan cetak struk transaksi secara otomatis setelah setiap penjualan.
    
 7. **Pelacakan Penjualan**
    Aplikasi ini secara otomatis melacak setiap transaksi penjualan yang dilakukan oleh kasir atau karyawan.
